@@ -100,10 +100,6 @@ The KNN model's performance is evaluated using metrics such as:
 
 The results are visualized with plots, and a detailed discussion is included in the notebook.
 
-## 📄 **LICENSE**
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
-## 🌐 **REFERENCES**
 ## 🌐 **REFERENCES**
 - [K-Nearest Neighbors Algorithm Explained](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [Decision Tree Algorithm Explained](https://en.wikipedia.org/wiki/Decision_tree_learning)
