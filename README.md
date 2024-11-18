@@ -81,38 +81,16 @@ This project requires the following Python packages:
 - 📈 **ROC Curve** - Model performance
 - 📋 **Classification Report** - Metrics summary
 
-
-You can install them with:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib
-```
-
-## 📂 **FILES**
-
-- **\`KNN_Model.ipynb\`**: Main notebook containing the code and analysis for the KNN model.
-
 ## 📝 **USAGE**
 
-To use this project, follow these steps:
+To explore and use this project, follow the link below:
 
-1. **Clone the repository**:
+- 📈 **View and Run the Notebook on Kaggle**:
 
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+  [Spam Message Classification Notebook on Kaggle](https://www.kaggle.com/code/hduytrng/spam-message)
 
-2. **Navigate to the project directory**:
+Simply click the link above to access the full Jupyter Notebook directly on Kaggle, where you can view the code, run it, and interact with the data.
 
-   ```bash
-   cd KNN_Kaggle_Train
-   ```
-
-3. **Open the Jupyter Notebook**:
-
-   ```bash
-   jupyter notebook KNN_Model.ipynb
-   ```
 
 ## 📊 **RESULTS**
 The KNN model's performance is evaluated using metrics such as:
@@ -126,5 +104,16 @@ The results are visualized with plots, and a detailed discussion is included in 
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ## 🌐 **REFERENCES**
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/modules/neighbors.html)
+## 🌐 **REFERENCES**
 - [K-Nearest Neighbors Algorithm Explained](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [Decision Tree Algorithm Explained](https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [Random Forest Algorithm Explained](https://en.wikipedia.org/wiki/Random_forest)
+- [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
+- [AdaBoost Algorithm Explained](https://en.wikipedia.org/wiki/AdaBoost)
+- [Gradient Boosting Algorithm Explained](https://en.wikipedia.org/wiki/Gradient_boosting)
+- [Stacking Classifier in Scikit-Learn](https://scikit-learn.org/stable/modules/ensemble.html#stacking)
+- [Voting Classifier in Scikit-Learn](https://scikit-learn.org/stable/modules/ensemble.html#voting-classifier)
+- [Logistic Regression Algorithm Explained](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Confusion Matrix and Performance Metrics](https://en.wikipedia.org/wiki/Confusion_matrix)
+- [TF-IDF Vectorization Explained](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+
